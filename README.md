@@ -15,4 +15,14 @@
  - Kilpi [advertisement](https://www.youtube.com/watch?v=Doih1JyC62k)
  - Incomplete... more coming soon!
 
-Now get back to work!
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=GreenCappuccino&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=GreenCappuccino&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
